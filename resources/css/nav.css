@@ -1,0 +1,11 @@
+/* Styles for Navigation */
+#navigation-menu {
+    height: calc(100vh - 4rem);
+}
+.navigation-link:hover .navigation-submenu {
+    display: block !important;
+}
+
+header.z-50 {
+    z-index: 150;
+}
